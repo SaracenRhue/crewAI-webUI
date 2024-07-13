@@ -1,0 +1,4 @@
+agent: 'medium_writer.yaml'
+description: take the given information sort it in a sensible order and write a extensive
+  article on the creation best practices and tips for creatin a rest api
+expected_output: a detailded and easy to read article on the best practices and tips for creating a rest api

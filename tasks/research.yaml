@@ -1,0 +1,4 @@
+agent: teach_researcher.yaml
+description: gather information about best practices and tips for creating a rest
+  api.
+expected_output: extensif information about rest apis in a bulletpoint form

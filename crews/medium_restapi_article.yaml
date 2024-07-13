@@ -1,0 +1,8 @@
+agents:
+- medium_writer.yaml
+- teach_researcher.yaml
+process: sequential
+tasks:
+- research.yaml
+- writing.yaml
+verbose: 2
